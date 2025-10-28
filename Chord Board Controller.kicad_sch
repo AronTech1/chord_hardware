@@ -7397,6 +7397,16 @@
 		)
 		(uuid "08dd7b2b-312b-445b-a493-1b05be5270d7")
 	)
+	(text "CHord controller"
+		(exclude_from_sim no)
+		(at 318.008 208.788 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "0e22dd40-a33b-44ed-8f20-134141bf8616")
+	)
 	(text "	+/-Button LEDs "
 		(exclude_from_sim no)
 		(at 351.028 133.604 0)
